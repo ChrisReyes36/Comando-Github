@@ -49,11 +49,22 @@
 16. git stash (Guardar Cambios de un Desarrollo a Medias de Forma Local)
 ```
 ```
-17. git stash appy (Aplicar Cambios Guardados Localmente)
+17. git stash apply (Aplicar Cambios Guardados Localmente)
 ```
 ```
 18. git checkout . (Deshacer Cambios)
 ```
 ```
 19. git merge (Combinar Ramas)
+```
+# Nombre para Commits
+
+```
+Bugfix: "Correción de problemas sin estar en producción"
+```
+```
+Befeatures: "Se agrega algo nuevo"
+```
+```
+Hotfix: "Correción de problemas estando en producción"
 ```
